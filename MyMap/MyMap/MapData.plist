@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Valmiera</string>
+		<key>Description</key>
+		<string>@Šeit es mācos.</string>
+		<key>Latitude</key>
+		<string>57.535067</string>
+		<key>Longitude</key>
+		<string>25.424228</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Riga</string>
+		<key>Description</key>
+		<string></string>
+		<key>Latitude</key>
+		<string>56.946285</string>
+		<key>Longitude</key>
+		<string>24.105078</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Salaspils</string>
+		<key>Description</key>
+		<string>@Šeit es dzīvoju.</string>
+		<key>Latitude</key>
+		<string>56.513650</string>
+		<key>Longitude</key>
+		<string>24.215558</string>
+	</dict>
+</array>
+</plist>
